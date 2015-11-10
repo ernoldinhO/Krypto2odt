@@ -1,0 +1,13 @@
+﻿Build started 2015-11-10 13:24:33.
+     1>Project "F:\Krypto\Krypto\Krypto.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         L:\VS\VC\bin\CL.exe /c /I"F:\Krypto\packages\openssl.v140.windesktop.msvcstl.dyn.rt-dyn.x86.1.0.2.0\build\native\include" /I"F:\Krypto\packages\zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8\build\native\include" /IC:\Users\Erni\Desktop\bass24\c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Krypto.cpp
+         Krypto.cpp
+       Link:
+         L:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Krypto\Debug\Krypto.exe" /INCREMENTAL /NOLOGO "F:\Krypto\packages\openssl.v140.windesktop.msvcstl.dyn.rt-dyn.x86.1.0.2.0\build\native\..\..\lib\native\v140\windesktop\msvcstl\dyn\rt-dyn\x86\debug\libeay32.lib" "F:\Krypto\packages\openssl.v140.windesktop.msvcstl.dyn.rt-dyn.x86.1.0.2.0\build\native\..\..\lib\native\v140\windesktop\msvcstl\dyn\rt-dyn\x86\debug\ssleay32.lib" "F:\Krypto\packages\zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8\build\native\..\..\lib\native\v140\windesktop\msvcstl\dyn\rt-dyn\Win32\Debug\zlibd.lib" bass.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\Krypto\Debug\Krypto.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Krypto\Debug\Krypto.lib" /MACHINE:X86 Debug\Krypto.obj
+         Krypto.vcxproj -> F:\Krypto\Debug\Krypto.exe
+     1>Done Building Project "F:\Krypto\Krypto\Krypto.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.60
